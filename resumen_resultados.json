@@ -1,0 +1,23 @@
+{
+  "filas_iniciales": 1190,
+  "columnas_iniciales": 12,
+  "filas_finales": 916,
+  "columnas_modelo": 8,
+  "estrategia_colesterol": "mediana",
+  "tratamiento_atipicos": "ninguno",
+  "k_elegido": 4,
+  "inercia": 4584.5,
+  "silueta_global": 0.212,
+  "tamanos": {
+    "0": 178,
+    "1": 251,
+    "2": 304,
+    "3": 183
+  },
+  "ari_semillas_promedio": 0.998,
+  "ari_remuestreo_promedio": 0.983,
+  "ari_solo_numericas": 0.136,
+  "varianza_pca_2d_%": 41.5,
+  "sklearn": "1.9.1",
+  "pandas": "3.0.5"
+}
