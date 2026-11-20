@@ -1,6 +1,7 @@
 """Lógica de la aplicación (independiente de Streamlit para poder probarla).
 Carga el MISMO pipeline guardado por el notebook final y asigna un paciente a un perfil."""
 import json
+import joblib
 import os
 import pandas as pd
 from sklearn.pipeline import Pipeline
