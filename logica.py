@@ -2,7 +2,6 @@
 Carga el MISMO pipeline guardado por el notebook final y asigna un paciente a un perfil."""
 import json
 import os
-import joblib
 import pandas as pd
 from sklearn.pipeline import Pipeline
 
